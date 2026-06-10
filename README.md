@@ -1,1 +1,1 @@
-# odin-recipes
+This is a recipe website with a main index page linking to a few recipes. It is designed to teach me the fundamentals of HTML including including the initial boilerplate and other elements such as paragraphs and anchors.
